@@ -122,3 +122,10 @@ main{
   
 }
 
+#what-i-do-des{
+  padding: 30px 150px;
+}
+
+.skills-container{
+  display: flex;
+}
